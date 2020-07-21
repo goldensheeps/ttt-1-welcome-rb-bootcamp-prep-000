@@ -1,6 +1,5 @@
-def welcome
-  print "Welcome to Tic Tac Toe!"
-end
+puts "Welcome to Tic Tac Toe!"
+
 
 
 # Edit this file to output "Welcome to Tic Tac Toe!"
